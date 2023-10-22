@@ -53,4 +53,4 @@ This project demonstrates creative use of CSS to design an attractive clock face
 
 Enjoy using this Alarm Clock application!
 
-*Note: Replace placeholders like `Ananthu Krishnan M.R`, `https://drive.google.com/file/d/1IfXUSbQ3w-eEKvLAQSsLQXtB5pmBmv5G/view?usp=share_link`, and `link-to-live-app` with actual information related to your project.*
+*Note: Replace placeholders like `Ananthu Krishnan M.R`, `https://drive.google.com/file/d/1IfXUSbQ3w-eEKvLAQSsLQXtB5pmBmv5G/view?usp=share_link`, and `https://ananthuak16.github.io/Alarm-Clock-/` with actual information related to your project.*
