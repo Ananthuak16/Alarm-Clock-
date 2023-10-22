@@ -45,7 +45,7 @@ The JavaScript code is well-structured and commented for readability. It include
 
 ## Hosting
 
-The application is hosted on GitHub, and you can access it [here](https://github.com/Ananthuak16/Alarm-Clock-.git).
+The application is hosted on GitHub, and you can access it [here](https://ananthuak16.github.io/Alarm-Clock-/).
 
 ## Creativity
 
